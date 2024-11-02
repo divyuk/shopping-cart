@@ -8,6 +8,7 @@ import Cart from "./components/Cart";
 function App() {
   return (
     <>
+    {/* Product and Cart component */}
       <Products />
       <Cart />
     </>
