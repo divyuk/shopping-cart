@@ -1,5 +1,4 @@
 import { createContext, useReducer } from "react";
-import productsList from "../data/productArray";
 
 const cart = [];
 
